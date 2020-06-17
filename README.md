@@ -1,21 +1,6 @@
 # H5 4人捕鱼大乱斗
 
 
-## 项目仓库
-
-```
-https://git.huoys.com/oversea/game/base.git qp_develop分支
-https://git.huoys.com/qp/h5srby.git
-```
-
-## 将markdown文档生成pdf
-将markdown生成pdf使用了 gitbook 方案，gitbook环境的搭建请自行百度。
-
-使用gitbook生成pdf，先进入H5捕鱼目录，使用以下命令生成pdf
-```
-gitbook pdf . H5捕鱼服务器文档.pdf
-```
-
 
 ## 知识
 
