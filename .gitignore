@@ -1,4 +1,3 @@
-*.exe
 _book/
 node_modules/
 .deploy_git/
